@@ -1,4 +1,4 @@
-![Gerenciador de Conceitos](https://img.shields.io/badge/atividade%20avaliativa-java-blueviolet)
+![Gerenciador de Conceitos](https://img.shields.io/badge/atividade%20avaliativa-java-yellow)
 
 # 🎓 Gerenciador de Conceitos de Alunos - Java
 > Atividade Avaliativa I – Programação Orientada a Objetos | 2º Semestre ADS

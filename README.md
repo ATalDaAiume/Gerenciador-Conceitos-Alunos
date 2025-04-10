@@ -1,6 +1,7 @@
 ![Gerenciador de Conceitos](https://img.shields.io/badge/atividade%20avaliativa-java-blueviolet)
 
 # 🎓 Gerenciador de Conceitos de Alunos - Java
+> Atividade Avaliativa I – Programação Orientada a Objetos | 2º Semestre ADS
 
 Repositório referente à **Atividade Avaliativa I** da disciplina de **Programação Orientada a Objetos** no 2º Semestre de ADS. O objetivo desta atividade é aplicar os conceitos de **coleções**, **vetores**, **estruturas de repetição**, **tratamento de erros** e boas práticas de codificação na linguagem **Java**, simulando um sistema simples de gerenciamento de conceitos atribuídos a alunos.
 
